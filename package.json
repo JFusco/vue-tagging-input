@@ -1,6 +1,6 @@
 {
   "name": "vue-tagging-input",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Reusable tagging component for Vue",
   "main": "dist/vue-tagging-input.js",
   "license": "MIT",
