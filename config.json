@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "fileName": "vue-tagging-input",
+    "entry": "Tags",
+    "library": "Tags"
+  }
+}
